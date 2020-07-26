@@ -9,6 +9,12 @@ About me:
 - 🤔 I’m looking for help with **learning anything new**
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: **Can turn coffee into code:wink:**
+- :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)
+
+Reach me:
+[email](apagundijayanth1999@gmail.com)
+
+
 
 
 
