@@ -12,7 +12,7 @@ About me:
 - :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)
 
 Reach me:
-[gmail](apagundijayanth1999@gmail.com)|[Linkedin](https://www.linkedin.com/in/JayanthApagundi)|[Instagram](https://www.instagram.com/jayanth_apagundi/)|[Twitter](https://twitter.com/JayanthApagundi)
+ [gmail](apagundijayanth1999@gmail.com) | [Linkedin](https://www.linkedin.com/in/JayanthApagundi) | [Instagram](https://www.instagram.com/jayanth_apagundi/) | [Twitter](https://twitter.com/JayanthApagundi)
 
 
 
