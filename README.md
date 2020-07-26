@@ -13,7 +13,7 @@ About me:
 Reach me:
  [Email](apagundijayanth1999@gmail.com) | [Linkedin](https://www.linkedin.com/in/JayanthApagundi) | [Instagram](https://www.instagram.com/jayanth_apagundi/) | [Twitter](https://twitter.com/JayanthApagundi)
  
- <p>Random/Proud fact: That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop ans still  h have the skills within you.:sunglasses::computer: </p>
+ <p type:"italic">Random/Proud fact: That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop ans still  h have the skills within you.:sunglasses::computer: </p>
 
 
 
