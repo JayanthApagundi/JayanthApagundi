@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
 <b>Reach me:</b>
- [Linkedin](https://www.linkedin.com/in/JayanthApagundi) | [Instagram](https://www.instagram.com/jayanth_apagundi/) | [Twitter](https://twitter.com/JayanthApagundi) | [HackerRank](https://www.hackerrank.com/Jayanth_Apagundi)
+ [Linkedin](https://www.linkedin.com/in/JayanthApagundi) | [Instagram](https://www.instagram.com/jayanth_apagundi/) | [Twitter](https://twitter.com/JayanthApagundi) | [HackerRank](https://www.hackerrank.com/Jayanth_Apagundi) | [Email](mailto:apagundijayanth1999@gmail.com)
  
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
