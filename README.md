@@ -1,4 +1,4 @@
-<h2 align="center"> Hey👋, I m Jayanth Apagundi </h2>
+<h1 align="center"> Hey👋, I m Jayanth Apagundi </h1>
  
 <h3 align="center">I am a 3rd year Computer Science UG Student. I am an enthusiastic person with broad skills and seeking experiences in the technical field. Loves programming and coding and would always like to gain knowledge and explore about as it, as it has always fascinated me and kept me motivated.</h3> 
 
@@ -16,9 +16,9 @@
 <b>Reach me:</b>
  [Linkedin](https://www.linkedin.com/in/JayanthApagundi) | [Instagram](https://www.instagram.com/jayanth_apagundi/) | [Twitter](https://twitter.com/JayanthApagundi) | [HackerRank](https://www.hackerrank.com/Jayanth_Apagundi)
  
- <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
+ <p><b>Random/Proud fact</b>: <h6><i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i></h6>:sunglasses::computer: </p>
  
-<h5 align="center"> Happy Coding :bulb: </h5> <br>
+<h5 align="center"> <b> Happy Coding </b> :bulb: </h5> <br>
  
  <div align="center">
   <a href="https://github.com/akshayraichur">
