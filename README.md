@@ -22,7 +22,7 @@
  
  <div align="center">
   <a href="https://github.com/akshayraichur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=dark&line_height=37" alt="Akshay's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=light&line_height=37" alt="Akshay's github stats"/>
 </a>
 </div>
 
