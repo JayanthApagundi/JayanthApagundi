@@ -18,13 +18,13 @@
  
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
-<h5 align="center"> <b> Happy Coding </b> :bulb: </h5> <br>
- 
  <div align="center">
   <a href="https://github.com/JayanthApagundi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=light&line_height=37" alt="Jayanth's github stats"/>
 </a>
 </div>
+
+<h5 align="center"> <b> Happy Coding </b> :bulb: </h5> <br>
 
 
 
