@@ -4,7 +4,7 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
 
-<b>About me:</b>
+<h3>About me:</h3>
 - 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms**
 - 🌱 I’m currently learning **Data Analytics** 
 - 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects** 
@@ -13,7 +13,7 @@
 - :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)**
 - ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
-<h1>Reach me:</h1>
+<h3>Reach me:</h3>
  
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
