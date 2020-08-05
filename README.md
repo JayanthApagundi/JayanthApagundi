@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 
 <h4><b>Reach me:</b></h4>
-<a href="https://www.facebook.com/apagundi.jayanth" style="color: #222f3e;"><i class="fab fa-2x fa-facebook"></i></a>
+<a href="https://www.facebook.com/apagundi.jayanth"><i class="fab fa-2x fa-facebook"></i></a>
  
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
