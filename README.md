@@ -17,6 +17,7 @@
 <h3>Reach me:</h3> <a href="https://www.facebook.com/apagundi.jayanth/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> 
 
  
+ <br>
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
  <div align="center">
