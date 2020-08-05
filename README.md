@@ -24,7 +24,8 @@
 
  <br>
  <br>
- <h4><p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p></h4>
+ <h3>Random/Proud fact:</h3> <br>
+ <h4><i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer:</h4>
  
  <div align="center">
   <a href="https://github.com/JayanthApagundi">
