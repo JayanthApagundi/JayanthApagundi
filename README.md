@@ -33,9 +33,12 @@
 </div>
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
+
+<div align="center">
 <a href="https://www.hackerrank.com/Jayanth_Apagundi">
- <img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>
+ <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>
 </a>
+</div> 
 
 
 
