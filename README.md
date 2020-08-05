@@ -5,13 +5,13 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
 
 <h3><b>About me:</b></h3>
-- 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms**
-- 🌱 I’m currently learning **Data Analytics** 
-- 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects** 
-- 🤔 I’m looking for help with **Learning Anything New**
-- 💬 Ask me about **Anything- apagundijayanth1999@gmail.com**
-- :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)**
-- ⚡ Fun fact: **Can turn Coffee into Code:wink:**
+- 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms** <br>
+- 🌱 I’m currently learning **Data Analytics** <br>
+- 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects** <br>
+- 🤔 I’m looking for help with **Learning Anything New** <br>
+- 💬 Ask me about **Anything- apagundijayanth1999@gmail.com** <br>
+- :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)** <br>
+- ⚡ Fun fact: **Can turn Coffee into Code:wink:** <br>
 
 <h3>Reach me:</h3>
  
