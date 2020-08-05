@@ -13,10 +13,7 @@
 - :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)**
 - ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
-
-<h4><b>Reach me:</b></h4>
-<a href="https://www.facebook.com/apagundi.jayanth"><i class="fab fa-2x fa-facebook"></i></a>
+<h1>Reach me:</h1>
  
  <p><b>Random/Proud fact</b>: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer: </p>
  
@@ -26,7 +23,7 @@
 </a>
 </div>
 
-<h5 align="center"> <b> Happy Coding </b> :bulb: </h5> <br>
+<h4 align="center"> <b> Happy Coding </b> :bulb: </h4> <br>
 
 
 
