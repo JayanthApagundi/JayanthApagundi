@@ -2,7 +2,7 @@
  
 <h3 align="center">I am a 3rd year Computer Science UG Student. I am an enthusiastic person with broad skills and seeking experience in the technical field. Loves programming and coding and would always like to gain knowledge and explore about it, as it has always fascinated me and kept me motivated.</h3> 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
-<h3><b>About me:</b></h3>
+<b>About me:</b>
 - 🔭 I’m currently working on <b>MERN Stack, Data Structures & Algorithms</b> <br>
 - 🌱 I’m currently learning <b>Data Analytics</b> <br>
 - 👯 I’m looking to collaborate on <b>Web(MERN) based projects, IoT- Real time applicaitons, Python based projects</b> <br>
