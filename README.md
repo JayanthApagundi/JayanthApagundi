@@ -1,15 +1,17 @@
 <h1 align="center">Hey👋, I m Jayanth Apagundi</h1>
  
 <h3 align="center">I am a 3rd year Computer Science UG Student. I am an enthusiastic person with broad skills and seeking experience in the technical field. Loves programming and coding and would always like to gain knowledge and explore about it, as it has always fascinated me and kept me motivated.</h3> 
+
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
+
 <b>About me:</b>
-- 🔭 I’m currently working on <b>MERN Stack, Data Structures & Algorithms</b> <br>
-- 🌱 I’m currently learning <b>Data Analytics</b> <br>
-- 👯 I’m looking to collaborate on <b>Web(MERN) based projects, IoT- Real time applicaitons, Python based projects</b> <br>
-- 🤔 I’m looking for help with <b>Learning Anything New</b> <br>
-- 💬 Ask me about <b>Anything- apagundijayanth1999@gmail.com</b> <br>
-- :sparkles: Interested/Exploring: <b>Augmented Reality(AR), Virtual Reality(VR)</b> <br>
-- ⚡ Fun fact: <b>Can turn Coffee into Code:wink:</b> <br>
+- 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Data Analytics** 
+- 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects**
+- 🤔 I’m looking for help with **Learning Anything New**
+- 💬 Ask me about **Anything- apagundijayanth1999@gmail.com**
+- :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)**
+- ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
 <h3>Reach me:</h3>
  
