@@ -4,7 +4,7 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
 
-<h3>About me:</h3>
+<b>About me:</b>
 - 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms**
 - 🌱 I’m currently learning **Data Analytics** 
 - 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects** 
