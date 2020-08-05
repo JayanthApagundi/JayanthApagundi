@@ -17,8 +17,8 @@
 <h3>Reach me:</h3> 
 <a href="https://www.instagram.com/jayanth_apagundi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
 <a href="https://www.linkedin.com/in/jayanthapagundi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:apagundijayanth1999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href="https://twitter.com/JayanthApagundi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+ <a href="mailto:apagundijayanth1999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  <a href="https://twitter.com/JayanthApagundi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.facebook.com/apagundi.jayanth/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> 
 
 <br>
