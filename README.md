@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/apagundi.jayanth/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> 
 
 <br>
-<h4>Random/Proud fact: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer:</h4>
+<h3>Random/Proud fact: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer:</h3>
 
 <br>
  
