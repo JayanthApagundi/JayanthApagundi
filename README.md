@@ -28,7 +28,7 @@
  
 <div align="center">
   <a href="https://github.com/JayanthApagundi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=light&line_height=37" alt="Jayanth's github stats"/>
+  [![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
 </a>
 </div>
 
@@ -40,7 +40,7 @@
 </a>
 </div> 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
