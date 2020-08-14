@@ -26,8 +26,10 @@
 
 <br>
 
-<div align="center"> 
-[![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
+<div align="center">
+ <a href="https://github.com/JayanthApagundi">
+  <img align=""center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi" alt="Jayanth's GitHub Status">
+ </a>
 </div>
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
