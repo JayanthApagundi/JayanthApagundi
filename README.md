@@ -26,11 +26,7 @@
 
 <br>
  
-<div align="center">
-  <a href="https://github.com/JayanthApagundi">
-  [![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
-</a>
-</div>
+[![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
 
