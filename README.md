@@ -25,8 +25,10 @@
 <h3>Random/Proud fact: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer:</h3>
 
 <br>
- 
+
+<div align=""center> 
 [![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
+</div>
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
 
@@ -36,7 +38,6 @@
 </a>
 </div> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
