@@ -26,7 +26,7 @@
 
 <br>
 
-<div align=""center> 
+<div align="center"> 
 [![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=JayanthApagundi)](https://github.com/JayanthApagundi)
 </div>
 
