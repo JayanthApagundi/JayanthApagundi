@@ -24,7 +24,7 @@
 
 <div align="center">
  <a href="https://github.com/JayanthApagundi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi" alt="Jayanth's GitHub Status !">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&theme=dark" alt="Jayanth's GitHub Status !">
  </a>
 </div>
 
