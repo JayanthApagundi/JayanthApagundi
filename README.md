@@ -6,8 +6,8 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on **MERN Stack, Data Structures & Algorithms**
-- 🌱 I’m currently learning **Data Analytics** 
+- 🔭 I’m currently working on **MERN Stack**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning** 
 - 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects**
 - 🤔 I’m looking for help with **Learning Anything New**
 - 💬 Ask me about **Anything- apagundijayanth1999@gmail.com**
