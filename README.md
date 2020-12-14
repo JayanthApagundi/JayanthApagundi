@@ -23,7 +23,7 @@
 
 <div align="center">
  <a href="https://github.com/JayanthApagundi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=dark" alt="Jayanth's GitHub Status !">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=dark" alt="Jayanth's GitHub Stats !">
  </a>
 </div>
 
