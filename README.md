@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I m Jayanth Apagundi</h1>
  
-<h3 align="center">I'm currently working as Assitant system engineer @Tata Consultancy Services, I am an enthusiastic person with broad skills and seeking experience in the technical field. Interested programming and coding and would always like to gain knowledge and explore about it, as it has always fascinated me and kept me motivated. </h3> 
+<h3 align="center">I'm currently working as Assitant system engineer @Tata Consultancy Services(TCS), I am an enthusiastic person with broad skills and seeking experience in the technical field. Interested programming and coding and would always like to gain knowledge and explore about it, as it has always fascinated me and kept me motivated. </h3> 
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Profile Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
 
