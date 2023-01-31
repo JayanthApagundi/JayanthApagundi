@@ -6,20 +6,11 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **Data Analytics, Machine Learning** 
-- 👯 I’m looking to collaborate on **Web(MERN) based projects, IoT- Real time applicaitons, Python based projects**
-- 🤔 I’m looking for help with **Learning Anything New**
-- 💬 Ask me about **Anything- apagundijayanth1999@gmail.com**
-- :sparkles: Interested/Exploring: **Augmented Reality(AR), Virtual Reality(VR)**
-- ⚡ Fun fact: **Can turn Coffee into Code:wink:**
+⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
 <h3>Reach me:</h3> 
 <a href="mailto:apagundijayanth1999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a><a href="https://www.linkedin.com/in/jayanthapagundi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/jayanth_apagundi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <a href="https://twitter.com/JayanthApagundi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href="https://www.facebook.com/apagundi.jayanth/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> 
 
-<br>
-<h3>Random/Proud fact: <i>That feeling when you think that you have forgotten to code as you might have left coding for a few days but when you switch on that laptop and still have the skills within you.</i>:sunglasses::computer:</h3>
-<br>
 
 <div align="center">
  <a href="https://github.com/JayanthApagundi">
