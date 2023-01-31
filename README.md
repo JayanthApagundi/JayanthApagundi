@@ -4,8 +4,6 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Profile Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
 
-<h3>About me:</h3>
-
 ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
 <h3>Reach me:</h3> 
