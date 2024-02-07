@@ -2,8 +2,6 @@
  
 <h3 align="center">I'm an enthusiastic and preserving human who possess commendable skills at programming and coding accompanied by achieving 9.03 CGPA in B.Tech Computer Science @KLS GIT, Belgaum. I have a work experience of 1.7 years at TCS as Assistant Systems Engineer- Handled technical aspects of backend of various finance and account applications, Thrived to achieve the required goals set with exceptional appreciations. Currently, I am working as an Educator(Part time) at LearnTeachWorld- Where in I engage one-on-one classes of Coding and Mathematics to students and help them learn in better way </h3> 
 
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthApagundi&label=Profile Views&color=blue&style=plastic" alt="Jayanth" /> </div> <br>
-
 ⚡ Fun fact: **Can turn Coffee into Code:wink:**
 
 <h3>Reach me:</h3> 
