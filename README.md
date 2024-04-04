@@ -10,7 +10,7 @@
 
 <div align="center">
  <a href="https://github.com/JayanthApagundi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=transparent)" alt="Jayanth's GitHub Stats !">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=dark)" alt="Jayanth's GitHub Stats !">
  </a>
 </div>
 
