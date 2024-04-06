@@ -12,10 +12,10 @@
  <a href="https://github.com/JayanthApagundi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=transparent" alt="Jayanth's GitHub Stats !">
  </a>
-</div>
 
 <div align="right">
  <a href="https://github.com/JayanthApagundi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthApagundi&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 </div>
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
