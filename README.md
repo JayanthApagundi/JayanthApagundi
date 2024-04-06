@@ -8,7 +8,7 @@
 <a href="mailto:apagundijayanth1999@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a><a href="https://www.linkedin.com/in/jayanthapagundi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/jayanth_apagundi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <a href="https://twitter.com/JayanthApagundi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href="https://www.facebook.com/apagundi.jayanth/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> 
 
 
-<div align="center">
+<!--<div align="center">
  <a href="https://github.com/JayanthApagundi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=transparent" alt="Jayanth's GitHub Stats !">
  </a>
@@ -17,7 +17,23 @@
 <div align="center">
  <a href="https://github.com/JayanthApagundi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthApagundi&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
+</div> -->
+
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <div align="center">
+            <a href="https://github.com/JayanthApagundi">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=transparent" alt="Jayanth's GitHub Stats !">
+            </a>
+        </div>
+    </div>
+    <div>
+        <div align="center">
+            <a href="https://github.com/JayanthApagundi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthApagundi&layout=compact&theme=buefy&hide_border=true" /></a>
+        </div>
+    </div>
 </div>
+
 
 <h3 align="center"> <b> Happy Coding </b> :bulb: </h3> 
 
