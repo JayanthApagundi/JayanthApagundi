@@ -19,15 +19,15 @@
 </div>
 </div> -->
 
-<div style="display: flex; justify-content: space-around;">
-    <div>
+<div style="display: flex;">
+    <div style="flex: 1;">
         <div align="center">
             <a href="https://github.com/JayanthApagundi">
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthApagundi&show_icons=true&theme=transparent" alt="Jayanth's GitHub Stats !">
             </a>
         </div>
     </div>
-    <div>
+    <div style="flex: 1;">
         <div align="center">
             <a href="https://github.com/JayanthApagundi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthApagundi&layout=compact&theme=buefy&hide_border=true" /></a>
         </div>
